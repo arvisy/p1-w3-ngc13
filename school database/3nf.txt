@@ -1,0 +1,7 @@
+| Student ID | Student Name | Course ID | Course Title    | Instructor ID | Instructor Name |
+|------------|--------------|-----------|-----------------|---------------|-----------------|
+| 101        | John         | 1         | HTML            | 1             | Mrs. Ayu        |
+| 102        | Jane         | 2         | CSS             | 2             | Mrs. Amel       |
+| 103        | Mary         | 3         | Basic Go        | 3             | Mr. Aldi        |
+| 104        | Sarah        | 4         | Handling Error  | 4             | Mr. Safran      |
+| 105        | David        | 5         | REST API        | 5             | Mr. Tugas       |

@@ -1,0 +1,13 @@
+| Employee ID | Name | Department | Salary   |
+|-------------|------|------------|----------|
+| 101         | John | HR         | 50000    |
+| 102         | Jane | Finance    | 55000    |
+| 201         | Mary | HR         | 60000    |
+| 202         | Sarah| Finance    | 65000    |
+| 203         | David| CEO        | 100000   |
+
+| Supervisor ID  | Supervisor Name |
+|----------------|-----------------|
+| 201            | Mary            |
+| 202            | Sarah           |
+| 203            | David           |

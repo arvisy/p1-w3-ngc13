@@ -1,0 +1,21 @@
+| Orders ID | Customer ID | Product ID | Price    |
+|-----------|-------------|------------|----------|
+| 1001      | 1           | P001       | 20.99    |
+| 1002      | 2           | P002       | 499.99   |
+| 1003      | 1           | P003       | 49.99    |
+| 1004      | 3           | P004       | 12.49    |
+| 1005      | 2           | P005       | 299.39   |
+
+| Customer ID | Customer Name | Customer Address  |
+|-------------|---------------|-------------------|
+| 1           | John Smith    | 123 Main St       |
+| 2           | Mary Johnson  | 456 Elm St        |
+| 3           | Sarah Brown   | 789 Oak Ave       |
+
+| Product ID | Product Name | Category   |
+|------------|--------------|------------|
+| P001       | T-shirts     | Clothing   |
+| P002       | Smartphone   | Electronics|
+| P003       | Headphone    | Electronics|
+| P004       | Book         | Books      |
+| P005       | Camera       | Electronics|

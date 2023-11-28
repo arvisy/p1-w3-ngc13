@@ -1,0 +1,7 @@
+| Orders ID | Customer Name | Customer Address  | Product ID | Product Name | Category   | Price    |
+|-----------|---------------|-------------------|------------|--------------|------------|----------|
+| 1001      | John Smith    | 123 Main St       | P001       | T-shirts     | Clothing   | 20.99    |
+| 1002      | Mary Johnson  | 456 Elm St        | P002       | Smartphone   | Electronics| 499.99   |
+| 1003      | John Smith    | 123 Main St       | P003       | Headphone    | Electronics| 49.99    |
+| 1004      | Sarah Brown   | 789 Oak Ave       | P004       | Book         | Books      | 12.49    |
+| 1005      | Mary Johnson  | 456 Elm St        | P005       | Camera       | Electronics| 299.39   |
