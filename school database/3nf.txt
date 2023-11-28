@@ -1,7 +1,23 @@
-| Student ID | Student Name | Course ID | Course Title    | Instructor ID | Instructor Name |
-|------------|--------------|-----------|-----------------|---------------|-----------------|
-| 101        | John         | 1         | HTML            | 1             | Mrs. Ayu        |
-| 102        | Jane         | 2         | CSS             | 2             | Mrs. Amel       |
-| 103        | Mary         | 3         | Basic Go        | 3             | Mr. Aldi        |
-| 104        | Sarah        | 4         | Handling Error  | 4             | Mr. Safran      |
-| 105        | David        | 5         | REST API        | 5             | Mr. Tugas       |
+| Student ID | Student Name |
+|------------|--------------|
+| 101        | John         |
+| 102        | Jane         |
+| 103        | Mary         |
+| 104        | Sarah        |
+| 105        | David        |
+
+| Course ID | Course Title    | Instructor ID  |
+|-----------|-----------------|----------------|
+| 1         | HTML            | 1              |
+| 2         | CSS             | 2              |
+| 3         | Basic Go        | 3              |
+| 4         | Handling Error  | 4              |
+| 5         | REST API        | 5              |
+
+| Instructor ID | Instructor Name  |
+|---------------|------------------|
+| 1             | Mrs. Ayu         |
+| 2             | Mrs. Amel        |
+| 3             | Mr. Aldi         |
+| 4             | Mr. Safran       |
+| 5             | Mr. Tugas        |

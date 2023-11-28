@@ -6,8 +6,10 @@
 | 202         | Sarah| Finance    | 203            | 65000    |
 | 203         | David| CEO        | NULL           | 100000   |
 
-| Supervisor ID  | Supervisor Name |
-|----------------|-----------------|
-| 201            | Mary            |
-| 202            | Sarah           |
-| 203            | David           |
+| Supervisor ID | Supervisor Name  |
+|---------------|------------------|
+| 201           | Mary             |
+| 202           | Sarah            |
+| 203           | David            |
+
+
